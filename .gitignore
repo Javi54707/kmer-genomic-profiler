@@ -1,0 +1,15 @@
+C++ build artifacts
+*.o
+*.out
+*.exe
+*.bin
+
+Editor / OS
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+Folders
+bin/
+build/
