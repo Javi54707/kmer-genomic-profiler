@@ -22,12 +22,12 @@ A C++ program for analyzing DNA sequences to generate k-mer frequency profiles f
 - `output/` – Resulting classification or frequency tables
 
 ## ▶️ How to Compile
+  ```bash
+  g++ -std=c++11 -o kmer src/*.cpp
+  ./kmer [input_file]
+```
 
-```bash
-g++ -std=c++11 -o kmer src/*.cpp
-./kmer [input_file]
-
-## 📚 Academic Context
+## 🎓 Academic Context
 This project was developed during the 2023/24 academic year, developed as part of the “Metodología de la Programación” (MP) course of the Bachelor's Degree in Computer Engineering and Mathematics (UGR).
 
 ## 📜 License
