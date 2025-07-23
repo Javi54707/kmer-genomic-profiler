@@ -15,12 +15,6 @@ A C++ program for analyzing DNA sequences to generate k-mer frequency profiles f
 - Standard Library (file I/O, strings, maps)
 - CLI-based input/output
 
-## 📂 Structure
-
-- `src/` – Source code (.cpp and .h files)
-- `data/` – Input genome files for known species
-- `output/` – Resulting classification or frequency tables
-
 ## ▶️ How to Compile
   ```bash
   g++ -std=c++11 -o kmer src/*.cpp
