@@ -1,15 +1,15 @@
-C++ build artifacts
+## C++ build artifacts
 *.o
 *.out
 *.exe
 *.bin
 
-Editor / OS
+## Editor / OS
 *.swp
 *.swo
 .DS_Store
 Thumbs.db
 
-Folders
+## Folders
 bin/
 build/
